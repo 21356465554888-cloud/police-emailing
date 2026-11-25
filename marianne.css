@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'MarianneExpression';
+  src: url('./MarianneExpression-Black.woff2') format('woff2');
+
+}
+
+@font-face {
+  font-family: 'Marianne';
+  src: url('./Marianne-Regular.woff2') format('woff2');
+
+}
