@@ -1,11 +1,13 @@
 @font-face {
-  font-family: 'MarianneExpression';
+  font-family: 'MarianneExpression-Black';
   src: url('./MarianneExpression-Black.woff2') format('woff2');
-
+    font-weight: normal;
+    font-style: normal;
 }
 
 @font-face {
-  font-family: 'Marianne';
+  font-family: 'Marianne-Regular';
   src: url('./Marianne-Regular.woff2') format('woff2');
-
+    font-weight: normal;
+    font-style: normal;
 }
